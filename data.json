@@ -1,0 +1,261 @@
+[
+    {
+        "id"  : 1,
+        "titlt" : "Bookingjini",
+        "ceo" : "Sibasish Mishra",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNzTNudwL0IlG059uha2n0KMK21AktHnTkdA&usqp=CAU",
+        "site" : "https://bookingjini.com/",
+        "description" : "Helping hotels attract, convert and maximize bookings through technology at just a dollar per day."
+       
+    },
+    {
+        "id"  : 2,
+        "titlt" : "Tata Consultancy Services",
+        "ceo" : "K. Krithivasan",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH1EtigMgXy63Xf7r8n0TfTP3tJz2G-FmcNQ&usqp=CAU",
+        "site" : "https://www.tcs.com/",
+        "description" : "TCS, a global leader in IT services, consulting, and business solutions, leverages technology for business transformation and helps catalyze change."
+       
+    },
+    {
+        "id"  :3,
+        "titlt" : "Microsoft",
+        "ceo" : "Satya Nadella",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_proI6xoUz-M6c8L6G-FqzxL_tQ0wQ3ZgZw&usqp=CAU",
+        "site" : "https://www.microsoft.com/",
+        "description" : "Microsoft is a top software company in India that operates in India through its subsidiary, Microsoft India Private Limited. The company has been present in India for over 30 years and has a significant presence in the country's technology landscape. "
+       
+    },
+    {
+        "id"  :4,
+        "titlt" : "Google ",
+        "ceo" : "Sundar Pichai",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPE__2cVE-SViPaIwX-MKS5cPp-TWZdH3JjA&usqp=CAU",
+        "site" : "https://www.google.com/",
+        "description" : "Google is a top software company in India that operates in India through its subsidiary, Google India Private Limited. The company has been present in India for over a decade and has a significant presence in the country's technology landscape."        
+       
+    },
+    {
+        "id"  :5,
+        "titlt" : "Wipro  ",
+        "ceo" : "Thierry Delaporte",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIup3Qbss6zHor-n9154ea77fgyt-xzN-_Q&usqp=CAU",
+        "site" : "https://www.Wipro.com/",
+        "description" : "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs."        
+       
+    },
+    {
+        "id"  :6,
+        "titlt" : "HCL Technologies ",
+        "ceo" : "C Vijayakumar",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrawFbfK5H2J5SXEcVKSKdYwypOsxuVUeqA&usqp=CAU",
+        "site" : "https://www.hcltech.com/",
+        "description" : "HCLTech is a global technology company, home to more than 224,000 people across 60 countries, delivering industry-leading capabilities centered around digital, engineering, cloud and AI, powered by a broad portfolio of technology services and products."        
+       
+    },
+    {
+        "id"  :7,
+        "titlt" : "Tech Mahindra ",
+        "ceo" : " Mohit Joshi",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVl48t18GXMJKv9WFk8U2BvLl98x20vdAXNg&usqp=CAU",
+        "site" : "https://www.techmahindra.com/",
+        "description" : "Tech Mahindra represents the connected world, offering innovative and customer-centric information technology experiences, enabling Enterprises, Associates and the Society to Rise™. Tech Mahindra is a USD 5.2 billion company with 124,250+ professionals across 90 countries, helping 988 global customers including Fortune 500 companies. "        
+       
+    },
+    {
+        "id"  :8,
+        "titlt" : "Cognizant  ",
+        "ceo" : " Ravi Kumar S",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRDCslG2iKnabLYVZffzhajPDIf3O1tkvxoA&usqp=CAU",
+        "site" : "https://www.cognizant .com/",
+        "description" : "Cognizant is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses."        
+       
+    },
+    {
+        "id"  :9,
+        "titlt" : "IBM ",
+        "ceo" : " Arvind Krishna",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ISngHZGWDLvnJLsOftvTzbdu0YFTxsk_kA&usqp=CAU",
+        "site" : "https://www.ibm.com/in-en",
+        "description" : "The International Business Machines Corporation (using the trademark IBM), nicknamed Big Blue,[7] is an American multinational technology company headquartered in Armonk, New York and present in over 175 countries."        
+       
+    },
+    {
+        "id"  :10,
+        "titlt" : "Accenture  ",
+        "ceo" : "Julie Sweet",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkiFx5G9_1sZyZoL6-Pq8Z3YABTs5ECE2vQ&usqp=CAU",
+        "site" : "https://www.accenture.com/in-en",
+        "description" : "Accenture is a top software company in India that offers a range of services including consulting, technology, and outsourcing. The company has a significant presence in India and is one of the largest employers in the country's IT industry."        
+       
+    },
+    {
+        "id"  :11,
+        "titlt" : "Capgemini  ",
+        "ceo" : "Aiman Ezzat",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppp36mNwTKuNYeSWV7WAgvOiFyan6oPZD7w&usqp=CAU",
+        "site" : "https://www.capgemini.com/in-en/",
+        "description" : "Capgemini stands at the forefront of consulting, technology services, and digital transformation on a global scale. It has a workforce of over 270,000 employees. Capgemini is a multinational professional services company that offers a range of services, including consulting, technology, and outsourcing."        
+       
+    },
+    {
+        "id"  :12,
+        "titlt" : "Larsen & Toubro Infotech (LTI)  ",
+        "ceo" : "Debashis Chatterjee",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIi1Q_olQ_hCaRX49U5zFcUfYm5PT2mAN2w&usqp=CAU",
+        "site" : "https://www.larsentoubro.com/",
+        "description" : "LTI is a top software company in India. It employs a team exceeding 35,000 individuals. Larsen & Toubro Infotech (LTI) is a well-known IT services and solutions company with a global presence, based in Mumbai, India."        
+       
+    },
+    {
+        "id"  :13,
+        "titlt" : "Mindtree ",
+        "ceo" : "Debashis Chatterjee",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIi1Q_olQ_hCaRX49U5zFcUfYm5PT2mAN2w&usqp=CAU",
+        "site" : "https://www.ltimindtree.com/",
+        "description" : "Mindtree is a global technology service and digital transformation company. It has a workforce of over 20,000 employees. "
+
+       
+    },
+    {
+        "id"  :14,
+        "titlt" : "Zoho Corporation ",
+        "ceo" : "Sridhar Vembu",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWRMmLEFoyilvpOVVlgluoXzKQTaY7BU8Sg&usqp=CAU",
+        "site" : "https://www.zoho.com/",
+        "description" : "Zoho Corporation is a leading provider of cloud-based business software. It has a workforce of over 8,000 employees. Zoho Corporation is an Indian software development company that provides web-based business tools. Established in 1996, the company has its main office located in Chennai, India."
+
+       
+    },
+    {
+        "id"  :15,
+        "titlt" : "Mphasis ",
+        "ceo" : "Nitin Rakesh",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKu0yC7sU4TRAD9VYQ7V1DG4eEFJSh2Mr7w&usqp=CAU",
+        "site" : "https://www.mphasis .com/",
+        "description" : "Mphasis is a global IT solutions provider specializing in digital transformation, cloud computing, and analytics. It has a workforce of over 25,000 employees. Mphasis is an Indian IT services company that specializes in application development, infrastructure management, and business process outsourcing"
+       
+    },
+    {
+        "id"  :16,
+        "titlt" : "NIIT Technologies ",
+        "ceo" : "Sapnesh Lalla",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79yYyoIgsKOmtANUHOilxreL0GUaBh-QlcwQn7w_L__Th9CXewIeuBQcCs2vihGnoGCI&usqp=CAU",
+        "site" : "https://www.niit .com/",
+        "description" : "NIIT Technologies is a global IT solutions provider specializing in digital transformation, cloud computing, and analytics. It employs more than 10,000 staff members. NIIT Technologies is an Indian IT services company that provides software development, infrastructure management, and business process management solutions. "
+       
+    },
+    {
+        "id"  :17,
+        "titlt" : " Persistent Systems",
+        "ceo" : "Sandeep Kalra",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCfl7rTy7lL9dCPVXT_6ReWnV_YPleTwTnRa9ip-goHiUFrKD5b8egA0qfSuOXjZ2jUpk&usqp=CAU",
+        "site" : "https://www.persistent.com/",
+        "description" : "Persistent Systems is a global IT services and software product development company. It boasts a team comprising over 10,000 employees. Persistent Systems is an Indian IT services company headquartered in Pune, India. Established in 1990, the company has a workforce of over 12,000 employees and operates in various locations in India, offering services to industries such as healthcare, banking, financial services, and technology. "
+       
+    },
+    {
+        "id"  :18,
+        "titlt" : " L&T Technology Services",
+        "ceo" : "Amit Chadha",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1XWBWLHs2v_eDu-cQGiNAn_Zs0trAWdmsRezH9FF7euWMD034JVen4NsAEu9vwZDOBwM&usqp=CAU",
+        "site" : "https://www.ltts.com/",
+        "description" : "L&T Technology Services is a global engineering services company. It has a workforce of over 16,000 employees. L&T Technology Services (LTTS) is an Indian engineering and technology solutions company with its headquarters in Vadodara, Gujarat, India. It was established in 2012 as a subsidiary of Larsen & Toubro Limited (L&T) and has a workforce of over 16,000 employees. "       
+    },
+    {
+        "id"  :19,
+        "titlt" : "Zensar Technologies",
+        "ceo" : "Manish Tandon",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XsxTmM-FW_IvOPBUKoHaKOsCnZ62kKO2OXJLys5h5rZlB_tQXtXYuK9qROrAVGKkgyw&usqp=CAU",
+        "site" : "https://www.zensar.com/",
+        "description" : "Zensar Technologies is a global IT services and digital solutions company. It has a workforce of over 10,000 employees. Zensar Technologies is an Indian IT services and solutions company headquartered in Pune, Maharashtra, India. It was established in 1991 and has a workforce of over 10,000 employees."
+    },
+    {
+        "id"  :20,
+        "titlt" : "Hexaware Technologies",
+        "ceo" : "R Srikrishna",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIALTBTyENHvFvCol5pYWR8g68OP81bq8ceg&usqp=CAU",
+        "site" : "https://hexaware.com/",
+        "description" : "Hexaware Technologies is a global IT services company specializing in digital transformation, cloud computing, and analytics. Hexaware Technologies is an Indian IT services company headquartered in Navi Mumbai, Maharashtra, India. It was established in 1990 and has a workforce of over 20,000 employees, operating in various locations in India and globally. Hexaware provides a range of services in industries such as banking, financial services, insurance, healthcare, and travel.   "
+    },
+    {
+        "id"  :21,
+        "titlt" : "Cybage ",
+        "ceo" : "Arun ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpd59VZDXXjofXIkQNTQEpBxUIdMNLnU1M0Q&usqp=CAU",
+        "site" : "https://www.cybage.com/",
+        "description" : "Cybage is a global technology consulting and digital solutions company. Cybage is a software company based in India that offers a wide range of IT services and solutions to clients worldwide. The company was founded in 1995 in Pune, India, and has since grown to become a leading provider of software development and outsourcing services.        "
+    },
+    {
+        "id"  :22,
+        "titlt" : "Cisco Systems, Inc. ",
+        "ceo" : "Chuck Robbins ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPpRVt8S03Ke6Qd6QAr4h2qiENgnlMO2Z4AA&usqp=CAU",
+        "site" : "https://www.cisco.com/",
+        "description" : "Cisco Systems is a tech giant headquartered in Silicon Valley, California, founded in 1984 by Leonard Bosack and Sandy Lerner. The Indian headquarter is situated in Bengaluru, Karnataka.    "
+    },
+    {
+        "id"  :23,
+        "titlt" : "Intel",
+        "ceo" : "Patrick P. Gelsinger",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUQkP_KZpruATXqQZ7S5e7FA75g96dLU08Q&usqp=CAU",
+        "site" : "https://www.intel .com/",
+        "description" : "Intel was established in 1967 by Gordon Moore and Robert Noyce as NM Electronics. It is a multinational technology company and the world's largest maker of semiconductor chips. Intel also exports microprocessors to prestigious clients like HP, Lenovo, and Dell.        "
+    },
+    {
+        "id"  :24,
+        "titlt" : " Infosys Technologies",
+        "ceo" : "Salil Parekh",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQApn6xfGqTlt4uWwW1Y-iNqk8LFPzMjeFtFhx6PGoR51bJOXJBMpMBZqcY3vP45RKqMwE&usqp=CAU",
+        "site" : "https://www.infosys.com/",
+        "description" : "With its tremendous popularity, Infosys has become one of the leading firms making workers rush at the offer. The work atmosphere at Infosys is well-known for being filled with encouragement, self-drive and teamwork. It provides the optimal training to enrich each employee's job profile, facilitating smooth project execution. In addition, the organisation offers product training and helps workers understand the basics.        "
+    },
+    {
+        "id"  :25,
+        "titlt" : "FPT Software",
+        "ceo" : "Pham Minh Tuan",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFfzjurIRnvum88Qy0QUj8k-AkXrfW-wXvA&usqp=CAU",
+        "site" : "https://fptsoftware.com/",
+        "description" : "FPT Software Company Limited, or simply FPT Software, is a global IT services provider headquartered in Hanoi, Vietnam, being the core subsidiary of the FPT Corporation. It is considered one of the biggest software services companies in Vietnam, with US$1 billion in revenue and more than 30,000 employees. Wikipedia        "
+    },
+    {
+        "id"  :26,
+        "titlt" : "Adobe ",
+        "ceo" : "Shantanu Narayen",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCUWbvNfR1gD34v7Vp2LRsJpgctPpDpwwgQ&usqp=CAU",
+        "site" : "https://www.adobe.com/",
+        "description" : "Adobe is the global leader in digital media and digital marketing solutions. Our creative, marketing and document solutions empower everyone – from emerging artists to global brands – to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. In short, Adobe is everywhere, and we’re changing the world through digital experiences. "
+    },
+    {
+        "id"  :27,
+        "titlt" : "Oracle ",
+        "ceo" : "Safra Catz",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5D9lX6w8KLkHHqgjrGVLamZb5gTXA8Lua4g&usqp=CAU  ",
+        "site" : "https://www.oracle.com/",
+        "description" : "Oracle Corporation is an American multinational computer technology company headquartered in Austin, Texas, United States. In 2020, Oracle was the third-largest software company in the world by revenue and market capitalization. The company sells database software and cloud computing"
+    },
+    {
+        "id"  :28,
+        "titlt" : "FoxyMoron ",
+        "ceo" : "Vivek Das",
+        "image" : "https://etimg.etb2bimg.com/photo/97672848.cms",
+        "site" : "https://foxymoron.in/",
+        "description" : "Founded in 2008, FoxyMoron is an award-winning full-funnel creative and performance digital agency. We provide solutions to create future-ready brands on digital platforms, through an integration of content, technology, media, and data.  We have built several sustainable partnerships with leading brands across industries, including L’Oreal, Netflix, Colgate, Amazon India, Burger King, IKEA, DS Group, SanDisk, OBL Tiles, Hershey’s Group, Manyavar, ABC India, Turner International, DAMAC, PMF, Sharekhan, Gillette Venus, Braun, Uniqlo, TVS iQube, and Revital H NXT."
+    },
+    {
+        "id"  :29,
+        "titlt" : "GoZoop ",
+        "ceo" : "Ahmed Aftab Naqvi",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0tIQH0UpVEkwF7bTceMwaZeOf3s8RibeqfQ&usqp=CAU",
+        "site" : "https://gozoop.com/",
+        "description" : "Founded in October 2008, Gozoop is an independent marketing company offering a wide range of strategic solutions for brands and businesses. With a platform agnostic approach and effective blend of creative and technology services, Gozoop specializes in crafting integrated solutions designed to helps brands and businesses win in the new world."
+    },
+    {
+        "id"  :30,
+        "titlt" : "OYO ",
+        "ceo" : "Ritesh Agarwal",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTai6I5-pR8ooB8WmC6bu-r36hxyFaqP-ZDjA&usqp=CAU",
+        "site" : "https://www.oyorooms.com/",
+        "description" : "OYO is a global platform that empowers entrepreneurs and small businesses with hotels and homes by providing full stack technology that increases earnings and eases operations. Bringing affordable and trusted accommodation that guests can book instantly."
+    }
+]
